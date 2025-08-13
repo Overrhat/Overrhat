@@ -1,46 +1,55 @@
-## Hi, I'm Jeruh Kim 👋
+# Hi, I'm Jeruh Kim 👋
 
-**Software Engineering student @ University of Auckland**  
-I like building useful things, learning fast, and shipping. I entered university at 16 in 2023, and I am now a third-year student exploring full stack development, computer graphics and image processing, machine learning, and automation.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&duration=3000&pause=1000&color=30C4FF&vCenter=true&random=false&width=520&lines=Software+Engineering+student+at+UoA;Computer+Graphics+%26+Image+Processing;Machine+Learning;Automation+and+useful+tools)](https://git.io/typing-svg)
 
-- 🎮 Now: learning deeper into web development and network
-- 🧠 Interests: computer graphics and image processing, machine learning, automation  
-- 💼 Open to: Summer 2025 to 2026 software internships 
-- 📫 Reach me: naruh061105@gmail.com
+I’m a Software Engineering student at the University of Auckland. I enjoy building practical systems and learning fast, with interests across computer graphics and image processing, machine learning, and automation.
 
----
-
-## Highlights 🏆
-
-- **DishCover (3rd place at DEVS x GDGC 2025)**  
-  Built a web app that flips food discovery. Using React and TypeScript with Supabase, including real time messaging and location based matching.
-
-- **Guess Who Game 🎮**  
-  Led development of a Java full-stack interactive crime-solving game using JavaFX and HTML/CSS. Integrated AI-powered character interactions through prompt engineering for real-time responsiveness using OpenAI API.
-
-- **KEB (Korean Engineering Body) Co-Leader 👥**  
- Co-founded a fast growing community of 100+ various engineering students; led academics events, developed internal systems, organized mentoring initiatives, and collaborated with professional engineers across multiple disciplines.
+<p align="left">
+  <a href="https://www.linkedin.com/in/jeruh-kim">
+    <img alt="Link to my LinkedIn Profile" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-jeruh--kim-blue?logo=linkedin"/>
+  </a>
+  <a href="mailto:naruh061105@gmail.com">
+    <img alt="My Email Address" title="Email me" src="https://img.shields.io/badge/Email-naruh061105%40gmail.com-red"/>
+  </a>
+</p>
 
 ---
 
-## Tech I use 🧰
+### Highlights 🏆
 
-**Languages:** C, C++, Python, Java, JavaScript/TypeScript, SQL, R, MATLAB  
-**Frameworks and tools:** React, Supabase, PostgreSQL, Git, Docker, JUnit, pytest  
-**Areas:** full stack web, computer graphics and image processing, machine learning for vision, testing and coverage, automation
-
----
-
-## What I care about ✅
-
-- Clarity first: small PRs, readable tests, simple baselines before complex systems  
-- Reliability: tests that catch real bugs and match the spec  
-- Learning fast: ship, measure, iterate
+- DEVS x GDGC 2025 Hackathon: 3rd place with Team Patrick Star. Built a web app "DishCover" that flips food discovery. Using React and TypeScript with Supabase, including real time messaging and location based matching.
+- KEB (Korean Engineering Body) Co-leader: Co-founded a fast growing community of 100+ various engineering students; led academics events, developed internal systems, organized mentoring initiatives, and collaborated with professional engineers across multiple disciplines.
 
 ---
 
-## Outside of code 🌱
+### Languages and Tools 🧰
 
-- 🎵 Music for creativity (Classical, Jazz, Pop, Hip-hop, Kpop, R&B)
-- 🏋️‍♂️ Gym for consistency 
-- ♟️ Chess for problem solving 
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
+<img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+
+<br>
+
+#
+
+<a>
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=overrhat&size_weight=0.5&count_weight=0.5&hide=shaderlab,HLSL&theme=tokyonight" alt="Most used languages"/>
+</a>
+
+#
+
+<details>
+  <summary><h3>More about me 👨‍💻</h3></summary>
+  I entered university at 16 and have been building projects that balance clarity, reliability, and speed of iteration. I like small pull requests, readable tests, and starting with simple baselines before adding complexity. Outside of code, I enjoy music for creativity, the gym for consistency, and chess for problem solving.
+</details>
