@@ -18,7 +18,7 @@ I’m a Software Engineering student at the University of Auckland. I enjoy buil
 ### Highlights 🏆
 
 - DEVS x GDGC 2025 Hackathon: 3rd place with Team Patrick Star. Built a web app "DishCover" that flips food discovery. Using React and TypeScript with Supabase, including real time messaging and location based matching.
-- KEB (Korean Engineering Body) Co-leader: Co-founded a fast growing community of 100+ various engineering students; led academics events, developed internal systems, organized mentoring initiatives, and collaborated with professional engineers across multiple disciplines.
+- KEB (Korean Engineering Body) Vice-President: Co-founded a fast growing community of 100+ various engineering students; led academics events, developed internal systems, organized mentoring initiatives, and collaborated with professional engineers across multiple disciplines.
 
 ---
 
