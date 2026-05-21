@@ -54,9 +54,10 @@ Currently, I’m working as a Project Manager in the WDCC 2026 programme, leadin
 
 #
 
-<a>
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=overrhat&size_weight=0.5&count_weight=0.5&hide=shaderlab,HLSL&theme=tokyonight" alt="Most used languages"/>
-</a>
+<p align="left">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Overrhat&theme=tokyonight" alt="Repos per language"/>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Overrhat&theme=tokyonight" alt="Most commit language"/>
+</p>
 
 #
 
