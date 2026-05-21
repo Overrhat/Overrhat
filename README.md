@@ -1,8 +1,10 @@
 # Hi, I'm Jeruh Kim 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&duration=3000&pause=1000&color=30C4FF&vCenter=true&random=false&width=520&lines=Software+Engineering+student+at+UoA;Computer+Graphics+%26+Image+Processing;Machine+Learning;Automation+and+useful+tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&duration=3000&pause=1000&color=30C4FF&vCenter=true&random=false&width=620&lines=Final-year+Software+Engineering+student+at+UoA;Full-stack+Web+Development;React+%7C+TypeScript+%7C+Next.js+%7C+Supabase;Building+practical+and+production-ready+systems)](https://git.io/typing-svg)
 
-I’m a Software Engineering student at the University of Auckland. I enjoy building practical systems and learning fast, with interests across computer graphics and image processing, machine learning, and automation.
+I’m a final-year Software Engineering student at the University of Auckland, with a strong interest in full-stack web development and building practical software systems. I enjoy working across frontend and backend development, turning user and client requirements into clean, reliable, and usable products.
+
+Currently, I’m working as a Project Manager in the WDCC 2026 programme, leading a team of developers building production-ready features for OnChain Education’s blockchain learning platform.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jeruh-kim">
@@ -17,29 +19,38 @@ I’m a Software Engineering student at the University of Auckland. I enjoy buil
 
 ### Highlights 🏆
 
-- DEVS x GDGC 2025 Hackathon: 3rd place with Team Patrick Star. Built a web app "DishCover" that flips food discovery. Using React and TypeScript with Supabase, including real time messaging and location based matching.
-- KEB (Korean Engineering Body) Vice-President: Co-founded a fast growing community of 100+ various engineering students; led academics events, developed internal systems, organized mentoring initiatives, and collaborated with professional engineers across multiple disciplines.
+- **OnChain Education Application, WDCC 2026:** Project Manager leading an Agile team of 10 developers to build two production-ready modules, a real-time DAO Chat Forum and an AI Tutor Chatbot, for an existing blockchain learning platform using Next.js, TypeScript, and Supabase.
+- **DEVS x GDGC 2025 Hackathon:** 3rd place overall with Team Patrick Star. Built "DishCover", a full-stack web app using React, TypeScript, and Supabase, featuring real-time messaging, location-based restaurant matching, and a fully functional UI.
+- **KEB Vice President & Co-founder:** Co-founded a fast-growing community of 170+ engineering students, led a 17-member executive team, and helped run academic events, mentoring initiatives, and industry engagement activities.
+- **Software Research/Development Intern, Measurement Standards Laboratory of New Zealand:** Built a cross-platform RNG testing framework and reproducible reporting pipelines for benchmarking quantum and pseudo-random generators.
 
 ---
 
-### Languages and Tools 🧰
+### Tech Stack 🧰
 
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
-<img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
-<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="Supabase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
 <br>
+
+#
+
+### What I work with
+
+- **Frontend:** React, Next.js, TypeScript, JavaScript, HTML/CSS
+- **Backend:** Node.js, Express, Supabase, PostgreSQL, SQL
+- **Other Languages:** Python, Java, C, C++, C#, MATLAB, R
+- **Tools:** Git/GitHub, Docker, .NET, Entity Framework, Spring Boot
 
 #
 
@@ -51,5 +62,5 @@ I’m a Software Engineering student at the University of Auckland. I enjoy buil
 
 <details>
   <summary><h3>More about me 👨‍💻</h3></summary>
-  I entered university at 16 and have been building projects that balance clarity, reliability, and speed of iteration. I like small pull requests, readable tests, and starting with simple baselines before adding complexity. Outside of code, I enjoy music for creativity, the gym for consistency, and chess for problem solving.
+  I entered university at 16 and have been building projects that balance clarity, reliability, and fast iteration. I enjoy full-stack development, clean UI implementation, practical backend design, and working with teams to turn ideas into usable products. Outside of code, I enjoy music for creativity, the gym for consistency, and chess for problem solving.
 </details>
